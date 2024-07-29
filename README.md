@@ -27,17 +27,3 @@
 
 [Первая лабораторная работа](https://github.com/fe3nder/2022-MAI-Backend-M_Ruzhickiy--first-/tree/master/Lab1)
 [Вторая лабораторная работа](https://github.com/fe3nder/2022-MAI-Backend-M_Ruzhickiy--first-/tree/master/Lab2)
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
